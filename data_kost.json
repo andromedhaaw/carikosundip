@@ -1,0 +1,2621 @@
+[
+  {
+    "Nama_kost": "Kos Putra Tembalang",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(17)",
+    "Alamat": "Gg. Nirwana Sari II No.23 ·",
+    "nomor_hp": "0856-0000-2442",
+    "id": 4
+  },
+  {
+    "Nama_kost": "Kost Putra Siwungu",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(46)",
+    "Alamat": "Jl. Prof. Sudarto No.8A ·",
+    "nomor_hp": "0812-2547-9595",
+    "id": 6
+  },
+  {
+    "Nama_kost": "Kos Bundi Kost Mahasiswa Putra",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(97)",
+    "Alamat": "Jl. Tembalang Sel. VIII No.6 ·",
+    "nomor_hp": "085642699988",
+    "id": 7
+  },
+  {
+    "Nama_kost": "Kos Putra sudaryana",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Gondang Raya No.24a",
+    "nomor_hp": "082132229889",
+    "id": 8
+  },
+  {
+    "Nama_kost": "Kost Putra Griya Turus Asri",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(27)",
+    "Alamat": "I No.9, Jl. Turus Asri ·",
+    "nomor_hp": "0818-298-740",
+    "id": 9
+  },
+  {
+    "Nama_kost": "Kost putra",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "WCQR+96J ·",
+    "nomor_hp": "0857-9980-9949",
+    "id": 10
+  },
+  {
+    "Nama_kost": "Blue Kost Pria",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "Jl. Baskoro Raya No.12 ·",
+    "nomor_hp": "08156522339",
+    "id": 13
+  },
+  {
+    "Nama_kost": "Kost Putra Graha Khrismar",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(28)",
+    "Alamat": "WCPQ+GQP ·",
+    "nomor_hp": "0877-3183-5376",
+    "id": 15
+  },
+  {
+    "Nama_kost": "Kost Putra Kusuma Tembalang",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Jl. Iwenisari No.11, RT.2/RW.1 ·",
+    "nomor_hp": "0896-8610-6514",
+    "id": 19
+  },
+  {
+    "Nama_kost": "KOST PUTRA M-30",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "WCRR+JR8 ·",
+    "nomor_hp": "0853-1060-9220",
+    "id": 20
+  },
+  {
+    "Nama_kost": "Kos Putra Griya Fawwaz",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50275",
+    "nomor_hp": "0811-2901-879",
+    "id": 25
+  },
+  {
+    "Nama_kost": "Kost Putra Home Allen",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(21)",
+    "Alamat": "Jl. Turus Asri No.I",
+    "nomor_hp": "0858-7622-6068",
+    "id": 27
+  },
+  {
+    "Nama_kost": "KOST PUTRA MAHAMERU",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(19)",
+    "Alamat": "Jl. Gerungsari No.31-39 ·",
+    "nomor_hp": "0822-2645-9897",
+    "id": 28
+  },
+  {
+    "Nama_kost": "Kost Amarilla Tembalang",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(48)",
+    "Alamat": "Jl. Maera Sari III No.12 ·",
+    "nomor_hp": "0856-4000-4910",
+    "id": 29
+  },
+  {
+    "Nama_kost": "Kost Putra Daffa",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Jl. Galang Sewu Raya No.30A ·",
+    "nomor_hp": "0897-5564-040",
+    "id": 30
+  },
+  {
+    "Nama_kost": "Kost Putra Iwenisari Tembalang",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "WCQQ+QCV, Jl. Nirwanasari Raya ·",
+    "nomor_hp": "0821-3779-1953",
+    "id": 31
+  },
+  {
+    "Nama_kost": "KOS PUTRA HADINA",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(33)",
+    "Alamat": "Jl. Maerasari 2 No.2, RT.04/RW.02 ·",
+    "nomor_hp": "0822-4330-9992",
+    "id": 32
+  },
+  {
+    "Nama_kost": "Kos Putra Al Fath",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Gg. Maerasari 2 No.3 ·",
+    "nomor_hp": "0813-2550-0053",
+    "id": 33
+  },
+  {
+    "Nama_kost": "kos putra sigawe",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Sigawe No.12a ·",
+    "nomor_hp": "0858-9287-8432",
+    "id": 34
+  },
+  {
+    "Nama_kost": "Wisma Lucky Kost Putra",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Banyumanik, Kota Semarang, Semarang",
+    "nomor_hp": "0812-1555-488",
+    "id": 35
+  },
+  {
+    "Nama_kost": "Kost Putra Cendekia Tembalang",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(11)",
+    "Alamat": "Jalan Mulawarman Utara 1 Nomor 10 RT/RW 002 Kelurahan Kramas",
+    "nomor_hp": 0,
+    "id": 36
+  },
+  {
+    "Nama_kost": "Kost Putra Pandu",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(12)",
+    "Alamat": "Jl. Jurang Blimbing No.C-07, RT.01/RW.04 ·",
+    "nomor_hp": "0812-2944-6543",
+    "id": 37
+  },
+  {
+    "Nama_kost": "Kost D'Paris Putra",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(33)",
+    "Alamat": "WCRV+Q34, Jl. Sipodang ·",
+    "nomor_hp": "0812-2858-009",
+    "id": 39
+  },
+  {
+    "Nama_kost": "Kost Putra Wisma Cahaya",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(13)",
+    "Alamat": "XC4R+QWW ·",
+    "nomor_hp": "0819-0140-8935",
+    "id": 41
+  },
+  {
+    "Nama_kost": "Kos Putra 05",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "3,5",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Unnamed Road ·",
+    "nomor_hp": "0813-8125-4140",
+    "id": 42
+  },
+  {
+    "Nama_kost": "LUXE KOS. Kos Putra Undip Tembalang Semarang",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(12)",
+    "Alamat": "Jl. Bulusan Utara Raya No.100 ·",
+    "nomor_hp": "0856-0042-3747",
+    "id": 43
+  },
+  {
+    "Nama_kost": "Kost Putra Mas Pur",
+    "kos_details": "Tidak ada ulasan · Pondok",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCXV+8GQ ·",
+    "nomor_hp": "0856-4009-6869",
+    "id": 44
+  },
+  {
+    "Nama_kost": "Kost Putra Iskandar 31",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Iwenisari No.31\n081350301108 / 081290409042",
+    "nomor_hp": "081350301108 / 08129",
+    "id": 45
+  },
+  {
+    "Nama_kost": "graha khrismar putra",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(29)",
+    "Alamat": "Jalan Gondang Barat III no 70 Semarang 087131835376/08161867908",
+    "nomor_hp": "087131835376/0816186",
+    "id": 46
+  },
+  {
+    "Nama_kost": "Kost Putra Dian",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Tembalang Baru V No.82 ·",
+    "nomor_hp": "0812-1517-9650",
+    "id": 47
+  },
+  {
+    "Nama_kost": "KOS GEDUNG HIJAU BARU",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(112)",
+    "Alamat": "Jalan LPPU Jl. Sigawe No.15 ·",
+    "nomor_hp": "089643992669",
+    "id": 48
+  },
+  {
+    "Nama_kost": "The hozi",
+    "kos_details": "Tidak ada ulasan · Pondok",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "19 jalan tembalang selatan 1",
+    "nomor_hp": "081229721499",
+    "id": 50
+  },
+  {
+    "Nama_kost": "kost putra Griya Amanah",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Jurang Blimbing Raya No.09 Tembalang RT 03/04 ·",
+    "nomor_hp": "0812-2556-8199",
+    "id": 51
+  },
+  {
+    "Nama_kost": "Kos Putra Pak Cuk",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "sebelah Apartemen Alton, Gg. Tirto Aji No.16 ·",
+    "nomor_hp": "0852-2622-5090",
+    "id": 52
+  },
+  {
+    "Nama_kost": "Kost Putra Graha Yudefa",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(26)",
+    "Alamat": "WCPX+P3M ·",
+    "nomor_hp": "0818-823-483",
+    "id": 53
+  },
+  {
+    "Nama_kost": "Kost putra dan putri",
+    "kos_details": "· Penginapan",
+    "avg_rating": "2,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "WCRV+G3H, Jl. Sipodang",
+    "nomor_hp": 0,
+    "id": 54
+  },
+  {
+    "Nama_kost": "Kost Putra Timoho Timur 2",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(30)",
+    "Alamat": "Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277",
+    "nomor_hp": "081392602983",
+    "id": 55
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Asmawi",
+    "kos_details": "Tidak ada ulasan · Pondok",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Baskoro Raya No.59 ·",
+    "nomor_hp": "0858-7654-5809",
+    "id": 57
+  },
+  {
+    "Nama_kost": "KOST PUTRA 99",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Timoho Timur 4 No.40 ·",
+    "nomor_hp": "02476482533",
+    "id": 58
+  },
+  {
+    "Nama_kost": "MWK Kost putra 01",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(19)",
+    "Alamat": "Jl. Jurang Blimbing ·",
+    "nomor_hp": "0899-8819-555",
+    "id": 60
+  },
+  {
+    "Nama_kost": "Kos Putra UJ Eazy Corner",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Jl. LPPU II Jl. Sigawe No.21 ·",
+    "nomor_hp": "0818-270-089",
+    "id": 62
+  },
+  {
+    "Nama_kost": "Kost putra banyuputih II",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Banyuputih II No.23",
+    "nomor_hp": 0,
+    "id": 64
+  },
+  {
+    "Nama_kost": "Kost putra griya barokah",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Banjarsari No.27",
+    "nomor_hp": 0,
+    "id": 66
+  },
+  {
+    "Nama_kost": "Kost Putra Bp. Arli",
+    "kos_details": "· Hostel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Jl. Bulusan Selatan VII No.50 ·",
+    "nomor_hp": "0856-4225-2854",
+    "id": 69
+  },
+  {
+    "Nama_kost": "Kost Putra Gerbang Merah",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Jurang Blimbing No.04, RT.03/RW.04 ·",
+    "nomor_hp": "0899-5863-466",
+    "id": 70
+  },
+  {
+    "Nama_kost": "Kost Putra Griya KADS",
+    "kos_details": "· Motel",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "WCRW+C6P, Jl. Bulusan Utara Raya",
+    "nomor_hp": 0,
+    "id": 72
+  },
+  {
+    "Nama_kost": "Kost Putra Aston Duta",
+    "kos_details": "· Hostel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Lkr. Utara Undip ·",
+    "nomor_hp": "0813-9319-2151",
+    "id": 73
+  },
+  {
+    "Nama_kost": "Kost Putra Wisma Niko 1",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(16)",
+    "Alamat": "WCRW+J3P, Jl. Timoho Timur 3 ·",
+    "nomor_hp": "0815-6547-732",
+    "id": 74
+  },
+  {
+    "Nama_kost": "Kost Putra Ny. Titin Sukirman",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(18)",
+    "Alamat": "XC4R+M26, Jl. Dengkek Sari ·",
+    "nomor_hp": "0811-796-484",
+    "id": 75
+  },
+  {
+    "Nama_kost": "Kost 32 Putra",
+    "kos_details": "Tidak ada ulasan · Pembangunan Perumahan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCQQ+QCV, Jl. Nirwanasari Raya ·",
+    "nomor_hp": "0821-3779-1953",
+    "id": 76
+  },
+  {
+    "Nama_kost": "Kos Putra Ibu Eva",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Banjarsari No.58B",
+    "nomor_hp": 0,
+    "id": 79
+  },
+  {
+    "Nama_kost": "Kost Putra Baskoro 69/70",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Baskoro Raya No.69 ·",
+    "nomor_hp": "0856-4109-4399",
+    "id": 82
+  },
+  {
+    "Nama_kost": "Kost Putra Cahaya Surya",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(31)",
+    "Alamat": "Perumahan Bulusan Asri, Jl. Bulusan Selatan Raya No.5 ·",
+    "nomor_hp": "0817-0270-260",
+    "id": 84
+  },
+  {
+    "Nama_kost": "Kost Putra Nte's",
+    "kos_details": "· Hostel",
+    "avg_rating": "3,7",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Gondang Tim. II No.33 ·",
+    "nomor_hp": "0822-2527-1380",
+    "id": 86
+  },
+  {
+    "Nama_kost": "Kos putra BASKORO 43C",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Baskoro Raya No.43C ·",
+    "nomor_hp": "0813-2572-3757",
+    "id": 88
+  },
+  {
+    "Nama_kost": "Kost Putra Gondang",
+    "kos_details": "Tidak ada ulasan · Hotel jangka panjang",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Gondang Tim. II No.12a",
+    "nomor_hp": 0,
+    "id": 89
+  },
+  {
+    "Nama_kost": "Kost Putra Pondok Dahar",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(30)",
+    "Alamat": "Jalan Bulusan Selatan Raya Nomor 1 RT.004 RW.005, Bulusan, Tembalang·",
+    "nomor_hp": "0813-2621-8720",
+    "id": 90
+  },
+  {
+    "Nama_kost": "Kost Pak Kumist",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(18)",
+    "Alamat": "WCQP+HQF ·",
+    "nomor_hp": "0815-9206-406",
+    "id": 91
+  },
+  {
+    "Nama_kost": "Kost Putra Fauzan (gerbang biru)",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCRP+MJ2",
+    "nomor_hp": 0,
+    "id": 95
+  },
+  {
+    "Nama_kost": "Kost Griya Parkit",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "WCJQ+9F5, Unnamed Road",
+    "nomor_hp": "081285753225",
+    "id": 96
+  },
+  {
+    "Nama_kost": "Kost Putra Sweet Home",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(54)",
+    "Alamat": "Jl. Tj. Sari III No.9 ·",
+    "nomor_hp": "0858-6542-3698",
+    "id": 99
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Cholis",
+    "kos_details": "Tidak ada ulasan · Pondok",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCRV+732, Jl. Timoho Bar. I ·",
+    "nomor_hp": "0813-2838-2572",
+    "id": 100
+  },
+  {
+    "Nama_kost": "Kost Putra Gondang Timur 1",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Gondang Timur 1 No.26",
+    "nomor_hp": "0813 2753 4771",
+    "id": 105
+  },
+  {
+    "Nama_kost": "kos putra \"barokah\" pak amin",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "Jl. Gondang Bar. IV No.16 ·",
+    "nomor_hp": "0858-7611-1026",
+    "id": 106
+  },
+  {
+    "Nama_kost": "Kost Davintha 4",
+    "kos_details": "· Penginapan",
+    "avg_rating": "3,4",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl.Dahlia II, Perumahan Jl. Bunga Raya Bukit Diponegoro No.D308",
+    "nomor_hp": 0,
+    "id": 107
+  },
+  {
+    "Nama_kost": "Kos Putra Area 31",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Tunjungsari Gg. Tunjungsari I No.31",
+    "nomor_hp": 0,
+    "id": 108
+  },
+  {
+    "Nama_kost": "Kost Putra Bulusan III",
+    "kos_details": "Tidak ada ulasan · Hostel",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCQW+WMM, Jl. Bulusan III ·",
+    "nomor_hp": "0812-2558-0160",
+    "id": 109
+  },
+  {
+    "Nama_kost": "Kost Putra Griya Rhafa",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(21)",
+    "Alamat": "Jl. Mulawarman Tim. No.A15 ·",
+    "nomor_hp": "0852-2503-9607",
+    "id": 111
+  },
+  {
+    "Nama_kost": "Kost Margoyoso Putra",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCVP+2XJ, Jl. Tunjungsari Gg. Tunjungsari I",
+    "nomor_hp": 0,
+    "id": 112
+  },
+  {
+    "Nama_kost": "Twin Kost Putra",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "WCJR+G64 ·",
+    "nomor_hp": "0815-7814-6500",
+    "id": 114
+  },
+  {
+    "Nama_kost": "Al Ghani Kost Putra",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "WCPQ+RJ5, Jl. Gondang Barat II ·",
+    "nomor_hp": "0813-2641-4409",
+    "id": 115
+  },
+  {
+    "Nama_kost": "Kost Putra Virgo",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Gg. Rukun Masjid No.10 ·",
+    "nomor_hp": "0812-2501-1055",
+    "id": 116
+  },
+  {
+    "Nama_kost": "Kos Putra Baqotmah",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Banjarsari No.48",
+    "nomor_hp": "081228850122",
+    "id": 119
+  },
+  {
+    "Nama_kost": "Kos Putra Arjuna Puteh",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Gg. Kandri Asri Jl. Jurang Blimbing No.22 ·",
+    "nomor_hp": "0812-2900-611",
+    "id": 120
+  },
+  {
+    "Nama_kost": "Kost Aska",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(22)",
+    "Alamat": "no 184D, Jl. Gondang Tim. II ·",
+    "nomor_hp": "0838-2204-1018",
+    "id": 121
+  },
+  {
+    "Nama_kost": "Kost Omah Joglo",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Sigawe No.18 ·",
+    "nomor_hp": "0812-2925-604",
+    "id": 122
+  },
+  {
+    "Nama_kost": "KOS WISMA WIJAYA GROUP",
+    "kos_details": "Tidak ada ulasan · Hotel jangka panjang",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jalan Gondang Barat 1 no. 5A, 5B, 22, RT.04/RW.01 Kel, Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277",
+    "nomor_hp": "08122843423",
+    "id": 124
+  },
+  {
+    "Nama_kost": "Kost GR 24",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Gondang Raya No.24",
+    "nomor_hp": 0,
+    "id": 126
+  },
+  {
+    "Nama_kost": "KOS PUTRA BU HARTI",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Galang Sewu Raya No.9",
+    "nomor_hp": 0,
+    "id": 127
+  },
+  {
+    "Nama_kost": "Kost Dorgiocavall",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(43)",
+    "Alamat": "Jl. Gondang Tim. II ·",
+    "nomor_hp": "0853-1010-8202",
+    "id": 128
+  },
+  {
+    "Nama_kost": "Kost Putra Suhartini",
+    "kos_details": "· Hostel",
+    "avg_rating": "3,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jalan Gendong Raya Nomor 69 RT.004 RW.003, Mangunharjo ·",
+    "nomor_hp": "0856-0089-4078",
+    "id": 130
+  },
+  {
+    "Nama_kost": "Kost Gamar",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Tembalang Baru No.2a",
+    "nomor_hp": 0,
+    "id": 131
+  },
+  {
+    "Nama_kost": "Kost Erika 127B",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Tirtasari No.127 ·",
+    "nomor_hp": "0895-3393-73400",
+    "id": 132
+  },
+  {
+    "Nama_kost": "Kos Putra Griya KOBOY (Kost Boy)",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(27)",
+    "Alamat": "Jl. Mulawarman Tim. Dalam No.2B ·",
+    "nomor_hp": "0821-4585-0345",
+    "id": 134
+  },
+  {
+    "Nama_kost": "Kost Bu Asih",
+    "kos_details": "· Hostel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Banjarsari Jl. Iwenisari No.12 A ·",
+    "nomor_hp": "0896-5734-4789",
+    "id": 135
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Wiwid",
+    "kos_details": "Tidak ada ulasan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Gondang Tim. II No.11",
+    "nomor_hp": 0,
+    "id": 136
+  },
+  {
+    "Nama_kost": "Kost Griya Cempaka",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(28)",
+    "Alamat": "WCWP+PM8, Jl. Baskoro ·",
+    "nomor_hp": "0813-2713-7293",
+    "id": 137
+  },
+  {
+    "Nama_kost": "Kos MALDIVES Tembalang",
+    "kos_details": "· Penginapan Dalam Ruangan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(102)",
+    "Alamat": "Jl. Mulawarman Selatan No.15 A, Kramas, Tembalang, Banyumanik, Universitas Diponegoro (UNDIP) ·",
+    "nomor_hp": "0813-9373-4551",
+    "id": 138
+  },
+  {
+    "Nama_kost": "Kost Putra Sumurboto Banyumanik",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(13)",
+    "Alamat": "Jl. Srondol Bumi Indah No.5",
+    "nomor_hp": 0,
+    "id": 139
+  },
+  {
+    "Nama_kost": "Wisma Ulina",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(25)",
+    "Alamat": "Jl. Timoho Timur I No.25 ·",
+    "nomor_hp": "0822-2777-8555",
+    "id": 140
+  },
+  {
+    "Nama_kost": "Evita Kost",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Tembalang Baru I No.22",
+    "nomor_hp": 0,
+    "id": 141
+  },
+  {
+    "Nama_kost": "Pondok Kost Griya Pak Sukijo(putri) edit later",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Maera Sari No.25 b",
+    "nomor_hp": 0,
+    "id": 142
+  },
+  {
+    "Nama_kost": "Wisma Tri Daya (Kost Putra)",
+    "kos_details": "· Hotel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Bulusan Selatan I Jl. Bulusan Selatan I Gg. Flamboyan No.6 ·",
+    "nomor_hp": "0818-291-339",
+    "id": 144
+  },
+  {
+    "Nama_kost": "Rumah Kos Eksklusif Bulusan",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Bulusan Selatan Raya No.9a\nRp1.500.000 / Bulan mamikos",
+    "nomor_hp": 0,
+    "id": 147
+  },
+  {
+    "Nama_kost": "Kost Putra Insan Jaya",
+    "kos_details": "Tidak ada ulasan · Hotel",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "28, Jl. Sumurboto Barat I No.RT 01",
+    "nomor_hp": 0,
+    "id": 148
+  },
+  {
+    "Nama_kost": "Kost Executive De Mansion",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(94)",
+    "Alamat": "Jl. Klentengsari No.8 ·",
+    "nomor_hp": "0812-2742-8677",
+    "id": 151
+  },
+  {
+    "Nama_kost": "Kost putra jronbang indah 17",
+    "kos_details": "Tidak ada ulasan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Rumah Didin Coy",
+    "nomor_hp": 0,
+    "id": 152
+  },
+  {
+    "Nama_kost": "Kost Pakowa House",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(34)",
+    "Alamat": "Jl. Dahlia III No.402 - 404 ·",
+    "nomor_hp": "0878-8784-4318",
+    "id": 153
+  },
+  {
+    "Nama_kost": "Kost putra pak man",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCRH+P92, Jl. Tirto Usodo Bar.",
+    "nomor_hp": 0,
+    "id": 154
+  },
+  {
+    "Nama_kost": "Kos putra pak kosim",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "WCRQ+MVG, Gg. Tirtasari II",
+    "nomor_hp": 0,
+    "id": 156
+  },
+  {
+    "Nama_kost": "Kost Citra Indah",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "Jalan Bulusan III No.mor 4 ·",
+    "nomor_hp": "0878-3272-9401",
+    "id": 158
+  },
+  {
+    "Nama_kost": "Kost Eksklusif Hatta 1",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Bulusan Selatan Raya No.6",
+    "nomor_hp": 0,
+    "id": 159
+  },
+  {
+    "Nama_kost": "Kost Corvette",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Timoho Bar. III No.38b ·",
+    "nomor_hp": "0857-2727-2729",
+    "id": 161
+  },
+  {
+    "Nama_kost": "Kost putra Margi utomo",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(9)",
+    "Alamat": "Jl. Ngesrep Tim. III No.36, RT.08/RW.01 ·",
+    "nomor_hp": "0881-3719-859",
+    "id": 164
+  },
+  {
+    "Nama_kost": "Kost the orange",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(17)",
+    "Alamat": "Jl. Gondang Tim. III No.4 ·",
+    "nomor_hp": "0813-2502-6763",
+    "id": 167
+  },
+  {
+    "Nama_kost": "Graha Sentosa",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "JL MULAWARMAN UTARA I No. 9 Tembalang SMG",
+    "nomor_hp": "0813 9020 1334",
+    "id": 168
+  },
+  {
+    "Nama_kost": "Rumah Kost R n B",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "3,9",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "WCVQ+979, Jl. Tunjungsari ·",
+    "nomor_hp": "0838-4255-0911",
+    "id": 169
+  },
+  {
+    "Nama_kost": "Kost Sone",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(11)",
+    "Alamat": "WCQQ+769, Gg. Tlogosari Utara II ·",
+    "nomor_hp": "0858-6666-6989",
+    "id": 171
+  },
+  {
+    "Nama_kost": "Kos Wisma Dewa 1",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(40)",
+    "Alamat": "Jl. Gondang Timur 1 No.33 ·",
+    "nomor_hp": "0812-4999-5620",
+    "id": 172
+  },
+  {
+    "Nama_kost": "Kost MUTAN",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(16)",
+    "Alamat": "WCJQ+7M5, Jl. Mulawarman Sel. II",
+    "nomor_hp": "08156611526",
+    "id": 174
+  },
+  {
+    "Nama_kost": "Kos Palem Putra",
+    "kos_details": "· Gedung Apartemen",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Tembalang Sel. III No.54",
+    "nomor_hp": 0,
+    "id": 175
+  },
+  {
+    "Nama_kost": "Kost Putra Griya Rafeyla",
+    "kos_details": "",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Tirto Agung Barat Gg. I No.1 B · Buka ⋅ Tutup pukul 21.00",
+    "nomor_hp": "0815-4290-0830",
+    "id": 176
+  },
+  {
+    "Nama_kost": "Kos Pondok Damai",
+    "kos_details": "· Penginapan Dalam Ruangan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "Gg. Nirwana Sari II No.27 ·",
+    "nomor_hp": "0857-2644-1160",
+    "id": 177
+  },
+  {
+    "Nama_kost": "Kos Wisma Erick",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "WCXW+G7Q ·",
+    "nomor_hp": "0856-0276-7595",
+    "id": 179
+  },
+  {
+    "Nama_kost": "Surya House Indekos",
+    "kos_details": "· Hostel",
+    "avg_rating": "3,9",
+    "jumlah_reviewer": "(19)",
+    "Alamat": "Jl. Tembalang Sel. VIII No.3 ·",
+    "nomor_hp": "0813-2640-1179",
+    "id": 180
+  },
+  {
+    "Nama_kost": "FANESHA KOST",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Prof. Sudarto Gg. Bulusari II No.1 ·",
+    "nomor_hp": "0813-3985-0081",
+    "id": 183
+  },
+  {
+    "Nama_kost": "Kost Bulusan",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(32)",
+    "Alamat": "JL. Bulusan 11, No. 11A, Perumahan Korpri Banyumanik ·",
+    "nomor_hp": "0812-2819-801",
+    "id": 185
+  },
+  {
+    "Nama_kost": "Kost Dewi Shinta B15",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(31)",
+    "Alamat": "Tembalang Rt1 Rw4 No.B15 jalan jurang ·",
+    "nomor_hp": "0815-7897-3633",
+    "id": 186
+  },
+  {
+    "Nama_kost": "Kos Bu Atik",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(19)",
+    "Alamat": "WCRV+G3V, Jl. Sipodang ·",
+    "nomor_hp": "083897756532",
+    "id": 188
+  },
+  {
+    "Nama_kost": "Kost Putra Griya R 3",
+    "kos_details": "· Penginapan",
+    "avg_rating": "3,5",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Gg. Melati No.18",
+    "nomor_hp": 0,
+    "id": 189
+  },
+  {
+    "Nama_kost": "Dahlia Kost",
+    "kos_details": "Tidak ada ulasan · Penginapan Dalam Ruangan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "JL. Tembalang 1 RT 003/04, Semarang, 50239",
+    "nomor_hp": 0,
+    "id": 190
+  },
+  {
+    "Nama_kost": "Kost Putra Districk33",
+    "kos_details": "· Hotel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Sumurboto I No.33 ·",
+    "nomor_hp": "0856-4047-6778",
+    "id": 191
+  },
+  {
+    "Nama_kost": "Kos Pak Supriyanto",
+    "kos_details": "· Penginapan",
+    "avg_rating": "3,8",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Tunjungsari No.27 ·",
+    "nomor_hp": "0813-2858-1341",
+    "id": 192
+  },
+  {
+    "Nama_kost": "Kost Putra Bukitkusuma 5",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(36)",
+    "Alamat": "XC3F+PFC, Jl. Bukit Kusuma",
+    "nomor_hp": 0,
+    "id": 193
+  },
+  {
+    "Nama_kost": "Kost Griya Tanaya Turus Asri 27",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(19)",
+    "Alamat": "Jl. Turus Asri No.27 ·",
+    "nomor_hp": "0812-9149-4141",
+    "id": 194
+  },
+  {
+    "Nama_kost": "Wisma Ksatria",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(9)",
+    "Alamat": "Jl. Sumur Boto Dlm III No.7 ·",
+    "nomor_hp": "0813-9068-4448",
+    "id": 199
+  },
+  {
+    "Nama_kost": "Kos Rumah Maya Hijau",
+    "kos_details": "· Hotel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Tembalang Selatan VII No.3-14 ·",
+    "nomor_hp": "0821-3847-5625",
+    "id": 202
+  },
+  {
+    "Nama_kost": "kos putra pak yudhi",
+    "kos_details": "Tidak ada ulasan · Kantor Perusahaan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Melati I Jl. Bunga Raya Bukit Diponegoro Nomor 218 ·",
+    "nomor_hp": "0857-4071-0810",
+    "id": 203
+  },
+  {
+    "Nama_kost": "KOST GRIYA TANTRA",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Tmn Klenteng Sari I No.5 ·",
+    "nomor_hp": "0813-2822-4517",
+    "id": 204
+  },
+  {
+    "Nama_kost": "Kos Putra Bu Arif",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Ngesrep Tim. IV No.15A ·",
+    "nomor_hp": "0852-2642-1814",
+    "id": 206
+  },
+  {
+    "Nama_kost": "Palm Green House",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(32)",
+    "Alamat": "WCPW+PX6, Jl. Bulusan Sel. ·",
+    "nomor_hp": "0247477846",
+    "id": 207
+  },
+  {
+    "Nama_kost": "Kos Putra Citra 3",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Gg. Tirto Mulyo II No.10 ·",
+    "nomor_hp": "0811-3322-829",
+    "id": 208
+  },
+  {
+    "Nama_kost": "Ar Residence",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(29)",
+    "Alamat": "Jl. Mulawarman Bar. II No.2 ·",
+    "nomor_hp": "082133853848",
+    "id": 209
+  },
+  {
+    "Nama_kost": "WISMA 55",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(30)",
+    "Alamat": "Jl. Gerungsari No.55 ·",
+    "nomor_hp": "0852-2678-9922",
+    "id": 210
+  },
+  {
+    "Nama_kost": "BUDI GUEST HOUSE DAN KOST EXCLUSIVE TEMBALANG",
+    "kos_details": "· Guest house",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(14)",
+    "Alamat": "Jl. Perum Villa Mulawarman Jl. Mulawarman View No.7 ·",
+    "nomor_hp": "08112789991",
+    "id": 211
+  },
+  {
+    "Nama_kost": "Daffins Home Kost Eksklusif",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(11)",
+    "Alamat": "Jl. Tirto Agung Bar. V No.27 ·",
+    "nomor_hp": "08113440505",
+    "id": 214
+  },
+  {
+    "Nama_kost": "Kos Jaya Putra",
+    "kos_details": "· Biro Persewaan Rumah Mobil",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Baskoro Raya No.III ·",
+    "nomor_hp": "0813-9055-3942",
+    "id": 215
+  },
+  {
+    "Nama_kost": "Honest Kost",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(41)",
+    "Alamat": "WCQH+V9C ·",
+    "nomor_hp": "0813-2585-1480",
+    "id": 218
+  },
+  {
+    "Nama_kost": "Kost Griya Nadya",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Mulawarman Sel. I No.42",
+    "nomor_hp": 0,
+    "id": 219
+  },
+  {
+    "Nama_kost": "Suroto Kost",
+    "kos_details": "· Guest house",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(52)",
+    "Alamat": "Gg. Tlogosari Utara II No.51C ·",
+    "nomor_hp": "0812-5410-6916",
+    "id": 220
+  },
+  {
+    "Nama_kost": "Kos Pondok Raja Living Space",
+    "kos_details": "· Rumah berlibur bebas rokok",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(55)",
+    "Alamat": "Pondok Raja Living Space, Jl. Durian Utara II, d/a ·",
+    "nomor_hp": "0859-7493-8398",
+    "id": 221
+  },
+  {
+    "Nama_kost": "KOS PUTRA bapak widjiono",
+    "kos_details": "· Tempat Istirahat",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(14)",
+    "Alamat": "Jl. Mulawarman V No.mor 30 , rt 03/01 ·",
+    "nomor_hp": "0813-4437-6117",
+    "id": 223
+  },
+  {
+    "Nama_kost": "Bintang Kost Putra",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "WCHR+89V, Jabungan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",
+    "nomor_hp": "081325141720/082325393322",
+    "id": 225
+  },
+  {
+    "Nama_kost": "Urban Garden (Kost Putra Tunjungsaruli 135)",
+    "kos_details": "· Kebun Buah",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Gg. Tunjung Sari No.135 ·",
+    "nomor_hp": "0857-2771-2238",
+    "id": 229
+  },
+  {
+    "Nama_kost": "Kost Putra Sumurboto Banyumanik",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(13)",
+    "Alamat": "Jl. Srondol Bumi Indah No.5",
+    "nomor_hp": 0,
+    "id": 231
+  },
+  {
+    "Nama_kost": "Kost Putra Hardian",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Sumurboto II No.33 ·",
+    "nomor_hp": "0856-4138-6972",
+    "id": 233
+  },
+  {
+    "Nama_kost": "Terima Kost Putra",
+    "kos_details": "Tidak ada ulasan · Hotel",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCRH+G4R, Jl. Klentengsari",
+    "nomor_hp": "081325990990",
+    "id": 235
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Hery",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "Jl. Tj. Sari VII No.14, RT.09 RW02 ·",
+    "nomor_hp": "0813-2534-7562",
+    "id": 238
+  },
+  {
+    "Nama_kost": "Kos Putra Tirto Agung Barat",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Tirto Agung Bar. V No.16 ·",
+    "nomor_hp": "0852-2629-4542",
+    "id": 239
+  },
+  {
+    "Nama_kost": "Kost Putra Valencia Tembalang Semarang",
+    "kos_details": "· Asrama Pelajar",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Tembalang Sel. III No.64 ·",
+    "nomor_hp": "0812-2817-1704",
+    "id": 240
+  },
+  {
+    "Nama_kost": "Kost Putra Oemahkoe (Karyawan / Mahasiswa)",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Rasamala Utara IV No.142 ·",
+    "nomor_hp": "0895-3436-86678",
+    "id": 242
+  },
+  {
+    "Nama_kost": "Kost Putra Omah Bejo",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Ngesrep Bar. VI Komplek PLN No.27 ·",
+    "nomor_hp": "0858-7944-3862",
+    "id": 243
+  },
+  {
+    "Nama_kost": "Kos Eksklusif UngaranView (Putra/Putri)",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(104)",
+    "Alamat": "Jl. Sumurboto I No.39 ·",
+    "nomor_hp": "08112999921",
+    "id": 244
+  },
+  {
+    "Nama_kost": "Kost Putih Putra no.41",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Tj. Sari VI No.41",
+    "nomor_hp": 0,
+    "id": 245
+  },
+  {
+    "Nama_kost": "Kost Putra Banjarsari Selatan 5",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(17)",
+    "Alamat": "Jl. Banjarsari Selatan No.5 ·",
+    "nomor_hp": "0813-2623-9326",
+    "id": 247
+  },
+  {
+    "Nama_kost": "Kost Putra Wisma Genius",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "WCVJ+PQ3 Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268",
+    "nomor_hp": "085 327 466 493",
+    "id": 248
+  },
+  {
+    "Nama_kost": "Kost Putra Griyo Kulo",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Ngesrep Timur VI No.4\n08122538337 / 0247471217",
+    "nomor_hp": "08122538337 / 0247471217",
+    "id": 249
+  },
+  {
+    "Nama_kost": "LAHESA KOST PUTRA",
+    "kos_details": "· Hotel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Tj. Sari VII No.8, RT.09/RW.02 ·",
+    "nomor_hp": "0812-1350-2117",
+    "id": 253
+  },
+  {
+    "Nama_kost": "Kost Putra Salman",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "WCWF+P74, Unnamed Road",
+    "nomor_hp": 0,
+    "id": 254
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Sutarno Tanjungsari",
+    "kos_details": "Tidak ada ulasan · Hotel",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl.Tj. Sari VI, rt09/02, Gg. kecil samping rumah No.23 ·",
+    "nomor_hp": "0812-6065-161",
+    "id": 255
+  },
+  {
+    "Nama_kost": "Kost Putra No. 10D",
+    "kos_details": "· Hostel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Ngesrep Tim. III Dalam No.10d",
+    "nomor_hp": "0813-2623-9392",
+    "id": 257
+  },
+  {
+    "Nama_kost": "Kost Bu Wiwik (Kos Putra dekat UNDIP & Poltekes)",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(25)",
+    "Alamat": "Jl. Tirto Usodo Tim. No.40C ·",
+    "nomor_hp": "0851-0179-5282",
+    "id": 258
+  },
+  {
+    "Nama_kost": "Kos Putra Undip VM Kos",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(17)",
+    "Alamat": "Jl. Villa Mulawarman I No.4",
+    "nomor_hp": "081381000725",
+    "id": 260
+  },
+  {
+    "Nama_kost": "Kost putra \"DEWANDRA\" 88",
+    "kos_details": "· Motel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "WCQP+538, Jl. Banjarsari barat,suroyudan, RT.05/RW.03",
+    "nomor_hp": "081-325-668-628",
+    "id": 261
+  },
+  {
+    "Nama_kost": "Kost Putra De'BOWO",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Prof. Sudarto Gg. Tirto Aji No.17 ·",
+    "nomor_hp": "0813-2548-4440",
+    "id": 262
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Ali",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(12)",
+    "Alamat": "Jl. Ngesrep Bar. V No.Kav 01, RT.09/RW.08 ·",
+    "nomor_hp": "0813-9000-0393",
+    "id": 263
+  },
+  {
+    "Nama_kost": "Kost heni",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Waru Tim. I No.22 ·",
+    "nomor_hp": "0895-3616-84577",
+    "id": 264
+  },
+  {
+    "Nama_kost": "Kost Putra/Karyawan \"ESE",
+    "kos_details": "Tidak ada ulasan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Damar Terusan No.269 ·",
+    "nomor_hp": "0858-0100-1265",
+    "id": 265
+  },
+  {
+    "Nama_kost": "Kos Putra Laras 8",
+    "kos_details": "· Hotel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Banjarsari Selatan No.8",
+    "nomor_hp": 0,
+    "id": 266
+  },
+  {
+    "Nama_kost": "Kost Putra Day House",
+    "kos_details": "· Asrama Pelajar",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(16)",
+    "Alamat": "Jl. Tembalang Selatan VI No.21",
+    "nomor_hp": "082242426397",
+    "id": 268
+  },
+  {
+    "Nama_kost": "Kos Putra Pak Son",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Gg. Sahabat 1, Jl. Ngesrep Tim. V No.25 ·",
+    "nomor_hp": "0821-3897-6666",
+    "id": 269
+  },
+  {
+    "Nama_kost": "Kost Eksekutif Srondol",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(19)",
+    "Alamat": "Jl. Nangka No.8 B ·",
+    "nomor_hp": "02491127051",
+    "id": 275
+  },
+  {
+    "Nama_kost": "Kost Putra Ibu Tun",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Baskoro Raya No.40",
+    "nomor_hp": "081393713026",
+    "id": 276
+  },
+  {
+    "Nama_kost": "kost Putra Dira",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(18)",
+    "Alamat": "WCQC+M9V, Jl. Durian Utara II Dalam I, RT.01/RW.01 ·",
+    "nomor_hp": "0852-2967-8111",
+    "id": 278
+  },
+  {
+    "Nama_kost": "Kost eksekutif Griya Persada",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(18)",
+    "Alamat": "WCHM+GWF, Unnamed Road ·",
+    "nomor_hp": "0822-2774-9188",
+    "id": 280
+  },
+  {
+    "Nama_kost": "Kost Putra Poniman UNDIP",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(28)",
+    "Alamat": "Jl. Prof. Sudarto ·",
+    "nomor_hp": "0247460581",
+    "id": 281
+  },
+  {
+    "Nama_kost": "Kost Putra Graha Nirwanasari",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Nirwanasari Raya No.25 ·",
+    "nomor_hp": "0895-3889-54018",
+    "id": 282
+  },
+  {
+    "Nama_kost": "Ilham Kost",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "WCPP+X3M, Jl. Banjarsari Barat ·",
+    "nomor_hp": "0812-7362-099",
+    "id": 284
+  },
+  {
+    "Nama_kost": "Ridho Kos Putra",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "WCJP+669, Jl. Mulawarman II ·",
+    "nomor_hp": "0896-5026-6111",
+    "id": 286
+  },
+  {
+    "Nama_kost": "Kost Cahyo",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "WCPF+RJF, Jl. Durian Raya ·",
+    "nomor_hp": "0822-2654-1223",
+    "id": 287
+  },
+  {
+    "Nama_kost": "Kost Orange Klentengsari",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(23)",
+    "Alamat": "Jl. Klentengsari No.8 ·",
+    "nomor_hp": "0812-2939-778",
+    "id": 289
+  },
+  {
+    "Nama_kost": "GRIYA KOS NAZHIFA",
+    "kos_details": "· Gedung Apartemen Berfasilitas Komplet",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Jalan Klentengsari Raya No. 27 Tembalang",
+    "nomor_hp": "081326758585",
+    "id": 293
+  },
+  {
+    "Nama_kost": "KOST PUTRA YUGI",
+    "kos_details": "· Agen Persewaan Rumah Peristirahatan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Potrosari Tengah No.73 ·",
+    "nomor_hp": "0819-0129-5759",
+    "id": 294
+  },
+  {
+    "Nama_kost": "Kos putra 4b",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "WCVJ+PJ6, Gg. Tirto Mulyo II No.4b ·",
+    "nomor_hp": "0823-4944-1769",
+    "id": 296
+  },
+  {
+    "Nama_kost": "Kos Triple K",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(12)",
+    "Alamat": "Gg. Sahabat, Jl. Ngesrep Tim. V No.32 ·",
+    "nomor_hp": "0812-2819-969",
+    "id": 298
+  },
+  {
+    "Nama_kost": "Kost Mutiara Sari",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(27)",
+    "Alamat": "l, Jl. Tanjungsari Raya ·",
+    "nomor_hp": "0247474935",
+    "id": 299
+  },
+  {
+    "Nama_kost": "Kost Oemah Kita",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(43)",
+    "Alamat": "WCQF+HH9 ·",
+    "nomor_hp": "0857-2796-6454",
+    "id": 301
+  },
+  {
+    "Nama_kost": "Kos Gladys Tirto Agung",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(18)",
+    "Alamat": "Jl. Tirto Agung Bar. V No.5 ·",
+    "nomor_hp": "0811-302-044",
+    "id": 305
+  },
+  {
+    "Nama_kost": "Nice Kost & Homestay",
+    "kos_details": "· Hostel",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(11)",
+    "Alamat": "Gg. Melati No.4 ·",
+    "nomor_hp": "0813-9004-9797",
+    "id": 307
+  },
+  {
+    "Nama_kost": "Kost Ungu",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(13)",
+    "Alamat": "Jl. Tanjungsari Dalam III No.8 ·",
+    "nomor_hp": "0888-2556-301",
+    "id": 309
+  },
+  {
+    "Nama_kost": "Kost Tunas Harmony",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(64)",
+    "Alamat": "Jl. Tirto Agung Barat II No.6B ·",
+    "nomor_hp": "0812-2551-6076",
+    "id": 311
+  },
+  {
+    "Nama_kost": "De Nugs Kost",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(37)",
+    "Alamat": "WCQF+WF5, Jalan Klentengsari III ·",
+    "nomor_hp": "085713779868",
+    "id": 312
+  },
+  {
+    "Nama_kost": "Homee Kos",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(21)",
+    "Alamat": "WCHR+6C2 ·",
+    "nomor_hp": "0813-5709-5393",
+    "id": 313
+  },
+  {
+    "Nama_kost": "Kost Putra Gg. Nirwanasari ll",
+    "kos_details": "Tidak ada ulasan · Hotel jangka panjang",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Gg. Nirwana Sari II No.22a",
+    "nomor_hp": 0,
+    "id": 315
+  },
+  {
+    "Nama_kost": "Griya Hamizan (Kost Putra Muslim)",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(16)",
+    "Alamat": "Jl. Nirwanasari Raya, Nirwanasari Cluster Kav. 8-9, Tembalang, Tembalang ·",
+    "nomor_hp": "0822-3203-5391",
+    "id": 319
+  },
+  {
+    "Nama_kost": "Perumda Kost Putra 98",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Perumda, Jl. Tembalang Baru V No.98",
+    "nomor_hp": "08164240137/0816 4240157",
+    "id": 320
+  },
+  {
+    "Nama_kost": "Kos The Ganteng.",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(10)",
+    "Alamat": "Jl. Tirto Agung No.34 ·",
+    "nomor_hp": "0813-2648-2192",
+    "id": 322
+  },
+  {
+    "Nama_kost": "Kost Om Mantoz",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Sumurboto Barat I No.4 Rt 03/04 ·",
+    "nomor_hp": "0813-2612-9929",
+    "id": 324
+  },
+  {
+    "Nama_kost": "Kos My Queen Baarak",
+    "kos_details": "· Penginapan Dalam Ruangan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(32)",
+    "Alamat": "Jl. Klentengsari No.11 ·",
+    "nomor_hp": "0813-7204-4020",
+    "id": 326
+  },
+  {
+    "Nama_kost": "Kost Putra Bu Alpiah",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jalan Banjarsari No.51, Tembalang",
+    "nomor_hp": 0,
+    "id": 329
+  },
+  {
+    "Nama_kost": "Kos Putra Bu Astin",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Gg. Bharata No.11a",
+    "nomor_hp": 0,
+    "id": 331
+  },
+  {
+    "Nama_kost": "Kost Putra Griya Sipodang",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(32)",
+    "Alamat": "Jl. Sipodang ·",
+    "nomor_hp": "0813-2895-0270",
+    "id": 333
+  },
+  {
+    "Nama_kost": "Kos Putra Ir.H. Soegito",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "3,2",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Banjarsari No.51 ·",
+    "nomor_hp": "02747473532",
+    "id": 334
+  },
+  {
+    "Nama_kost": "Kost putra 1",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "WCQV+XG8, Jl. Timoho Timur 1A ·",
+    "nomor_hp": "0813-2542-8016",
+    "id": 335
+  },
+  {
+    "Nama_kost": "Kost putra 1",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Timoho Timur I No.1, RT.05/RW.03",
+    "nomor_hp": 0,
+    "id": 342
+  },
+  {
+    "Nama_kost": "Kost ngesrep",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Ngesrep Tim. V Dalam II Gg. Mulia No.21 G ·",
+    "nomor_hp": "0858-2929-3398",
+    "id": 343
+  },
+  {
+    "Nama_kost": "Kost Bapak Seno",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Ngesrep Tim. No.4 ·",
+    "nomor_hp": "0816-657-741",
+    "id": 346
+  },
+  {
+    "Nama_kost": "Kost Putra 'W'",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "Jl. Maera Sari III No.9",
+    "nomor_hp": "081227987797",
+    "id": 347
+  },
+  {
+    "Nama_kost": "ROTHERMUNDT Kost dekat UNDIP",
+    "kos_details": "· Penginapan Dalam Ruangan",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(23)",
+    "Alamat": "",
+    "nomor_hp": "0856-4002-9667",
+    "id": 348
+  },
+  {
+    "Nama_kost": "Kost Putra Ibu Weni",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(25)",
+    "Alamat": "KOST PUTRA IBU WENI, Jl. Timoho Timur 4 No.47·",
+    "nomor_hp": "0895-3669-30300",
+    "id": 351
+  },
+  {
+    "Nama_kost": "Kost Beringin mahasiswa/kerja",
+    "kos_details": "· Penginapan",
+    "avg_rating": "3,8",
+    "jumlah_reviewer": "(17)",
+    "Alamat": "WCXC+Q6C, Gg. Rukun Masjid",
+    "nomor_hp": "081805975777",
+    "id": 353
+  },
+  {
+    "Nama_kost": "Kost bp. Budi",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Tembalang Selatan I No.6",
+    "nomor_hp": "081229721499",
+    "id": 356
+  },
+  {
+    "Nama_kost": "Kost Putra Wisma Niko 2",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(13)",
+    "Alamat": "WCVW+64C, Jl. Gerungsari ·",
+    "nomor_hp": "0815-6547-732",
+    "id": 357
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Trimo",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(27)",
+    "Alamat": "Jl. Timoho Timur I No.5 ·",
+    "nomor_hp": "0838-6632-5066",
+    "id": 360
+  },
+  {
+    "Nama_kost": "Kost Putra Griya Andini",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Gerungsari No.25 B ·",
+    "nomor_hp": "0815-7524-9655",
+    "id": 361
+  },
+  {
+    "Nama_kost": "Kos Marcel",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(9)",
+    "Alamat": "Jl. Ngesrep Tim. V Dalam II No.24 ·",
+    "nomor_hp": "0821-3402-9135",
+    "id": 362
+  },
+  {
+    "Nama_kost": "Kost Putra Pak Karnaan",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Gg. Tirta Sari No.123b ·",
+    "nomor_hp": "0857-2930-2122",
+    "id": 363
+  },
+  {
+    "Nama_kost": "Go Green Kost Semarang",
+    "kos_details": "· Agen Persewaan Rumah Peristirahatan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(14)",
+    "Alamat": "A,, Jl. Ngesrep Timur VI No.26 ·",
+    "nomor_hp": "0822-2220-7126",
+    "id": 364
+  },
+  {
+    "Nama_kost": "Kost Putra Maerasari 3",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(9)",
+    "Alamat": "Jl. Maera Sari No.3 ·",
+    "nomor_hp": "0877-3104-6725",
+    "id": 368
+  },
+  {
+    "Nama_kost": "Kost Putra Qory",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(28)",
+    "Alamat": "Griya Borobudur Mulawarman Cluster kamadhatu, Jl. Mulawarman Tim. No.Dalam, Kramas, Kec. Tembalang, Kota Semarang, Jawa Tengah 50275",
+    "nomor_hp": "0856-0154-7879",
+    "id": 371
+  },
+  {
+    "Nama_kost": "Kost Lucky - Lucky (Putra)",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(28)",
+    "Alamat": "",
+    "nomor_hp": "0852-1048-8955",
+    "id": 372
+  },
+  {
+    "Nama_kost": "Kost Retna",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "WCP6+488, Jl. Potrosari Tengah ·",
+    "nomor_hp": "0812-2953-1547",
+    "id": 373
+  },
+  {
+    "Nama_kost": "Kos putra pak kosim",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "WCRQ+MVG, Gg. Tirtasari II",
+    "nomor_hp": "085712332533",
+    "id": 375
+  },
+  {
+    "Nama_kost": "KOST BERKAH PAK WANTO KOS KOSAN",
+    "kos_details": "· Pondok",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Rasamala Utara No.71 ·",
+    "nomor_hp": "0815-7507-0412",
+    "id": 377
+  },
+  {
+    "Nama_kost": "Kost putra R3",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(10)",
+    "Alamat": "Jl. Mulawarman V ·",
+    "nomor_hp": "0812-8374-4600",
+    "id": 378
+  },
+  {
+    "Nama_kost": "Kost Bu Rom",
+    "kos_details": "Tidak ada ulasan · Hotel",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Gg. Mangga No.1 ·",
+    "nomor_hp": "0856-0668-5006",
+    "id": 379
+  },
+  {
+    "Nama_kost": "Kost Putra Ny. Titin Sukirman",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(18)",
+    "Alamat": "XC4R+M26, Jl. Dengkek Sari ·",
+    "nomor_hp": "0811-796-484",
+    "id": 380
+  },
+  {
+    "Nama_kost": "Nusa Kos Putra",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,3",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Gondang Tim. II No.5 ·",
+    "nomor_hp": "0821-3540-6325",
+    "id": 382
+  },
+  {
+    "Nama_kost": "Kost Bu Kanti",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "XC29+MC4, Jl. Ngesrep Barat Dalam III",
+    "nomor_hp": 0,
+    "id": 385
+  },
+  {
+    "Nama_kost": "Kost Undip Tembalang Semarang (Cornero House)",
+    "kos_details": "· Guest house",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(113)",
+    "Alamat": "Jl. Prof. Sudarto No.42 ·",
+    "nomor_hp": "0821-3703-9909",
+    "id": 386
+  },
+  {
+    "Nama_kost": "Kost Surya",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCWC+Q3X",
+    "nomor_hp": 0,
+    "id": 388
+  },
+  {
+    "Nama_kost": "Kos Putra Ariesta",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(8)",
+    "Alamat": "Jl. Mulawarman Utara Dalam I No.39 ·",
+    "nomor_hp": "0813-2501-9292",
+    "id": 390
+  },
+  {
+    "Nama_kost": "Kos ageng argandaru otong",
+    "kos_details": "· Penginapan",
+    "avg_rating": "3,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Tj. Sari III Dalam No.319 ·",
+    "nomor_hp": "0877-0039-5161",
+    "id": 391
+  },
+  {
+    "Nama_kost": "Griya Eucalyptus",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(98)",
+    "Alamat": "Jalan Mulawarman Selatan No. 2 A, Kelurahan Jabungan, Kecamatan Banyumanik · 0857-3915-5110",
+    "nomor_hp": "0857-3915-5110",
+    "id": 395
+  },
+  {
+    "Nama_kost": "Kost putra daun hijau",
+    "kos_details": "Tidak ada ulasan · Kantor Perusahaan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCVQ+2HR",
+    "nomor_hp": 0,
+    "id": 396
+  },
+  {
+    "Nama_kost": "Kost BIMA KALINGGA",
+    "kos_details": "· Rumah Kayu",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Kalingga II No.16 ·",
+    "nomor_hp": "0812-2661-7707",
+    "id": 397
+  },
+  {
+    "Nama_kost": "Sanggar Senam dan Kos Putra Fiesta",
+    "kos_details": "· Klub Olahraga",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Ngesrep Timur III Komp. PLN No.25 ·",
+    "nomor_hp": "0822-5719-2866",
+    "id": 398
+  },
+  {
+    "Nama_kost": "Kost Putra Mahasiswa / Karyawan",
+    "kos_details": "Tidak ada ulasan · Rumah Pondokan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Gondang Timur 1 No.53 ·",
+    "nomor_hp": "0813-2928-9925",
+    "id": 399
+  },
+  {
+    "Nama_kost": "KOST PUTRA PAK ANTOK",
+    "kos_details": "Tidak ada ulasan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Tembalang Baru V No.109",
+    "nomor_hp": 0,
+    "id": 404
+  },
+  {
+    "Nama_kost": "Kost my",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "WCPC+FV3",
+    "nomor_hp": 0,
+    "id": 408
+  },
+  {
+    "Nama_kost": "Kost Adira ( Putra )",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Unnamed Road ·",
+    "nomor_hp": "0856-4743-4150",
+    "id": 410
+  },
+  {
+    "Nama_kost": "Kos Sumurboto Baru B2",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,9",
+    "jumlah_reviewer": "(14)",
+    "Alamat": "WCWF+GPG, Jl. Sumurboto Baru ·",
+    "nomor_hp": "0895-4110-19398",
+    "id": 411
+  },
+  {
+    "Nama_kost": "Kost 35",
+    "kos_details": "Tidak ada ulasan · Penginapan Dalam Ruangan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl Tembalang I 35 50239 ·",
+    "nomor_hp": "0247472210",
+    "id": 413
+  },
+  {
+    "Nama_kost": "citra kost putra",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "1,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "X92X+PX9, Jalan Tembus Undip Unnes ·",
+    "nomor_hp": "085713935986",
+    "id": 414
+  },
+  {
+    "Nama_kost": "D'Paragon Bukit Sari Semarang",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(664)",
+    "Alamat": "Pedalangan, Gg. 1 No.178 ·",
+    "nomor_hp": "081229992200",
+    "id": 416
+  },
+  {
+    "Nama_kost": "Kost myHOME Tembalang",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(69)",
+    "Alamat": "No. 14 A, Jalan Sawunggaling 1 Tembalang ·",
+    "nomor_hp": "0811-9992-390",
+    "id": 417
+  },
+  {
+    "Nama_kost": "Kost Griya Kota Bunga",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,2",
+    "jumlah_reviewer": "(67)",
+    "Alamat": "Jalan Sipodang RT 04 / 02, Tembalang ·",
+    "nomor_hp": "0856-4354-5416",
+    "id": 419
+  },
+  {
+    "Nama_kost": "Wisma ANANDA Kos Putra",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(28)",
+    "Alamat": "Jl. Gondang Barat III ·",
+    "nomor_hp": "0813-7284-0440",
+    "id": 420
+  },
+  {
+    "Nama_kost": "KOST PAK SUWANTO",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "WCRC+27P ·",
+    "nomor_hp": "0247460142",
+    "id": 422
+  },
+  {
+    "Nama_kost": "Kost Elgie",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(4)",
+    "Alamat": "Jl. Bukit Umbul Timur (Buntu) Kav. No.2, RT. 05/04 Kel ·",
+    "nomor_hp": "0822-4209-1883",
+    "id": 423
+  },
+  {
+    "Nama_kost": "Kos Putra Bu Nora",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Gondang Barat I No.7A",
+    "nomor_hp": 0,
+    "id": 426
+  },
+  {
+    "Nama_kost": "kost putra Griya Amanah",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(5)",
+    "Alamat": "Jl. Jurang Blimbing Raya No.09 Tembalang RT 03/04 · 0812-2556-8199",
+    "nomor_hp": "0812-2556-8199",
+    "id": 427
+  },
+  {
+    "Nama_kost": "ADALIA HOMESTAY & KOST EKSEKUTIF Smg",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(152)",
+    "Alamat": "Jl. Ace No.15",
+    "nomor_hp": "0811277966",
+    "id": 428
+  },
+  {
+    "Nama_kost": "Kost Mahasiswa/Karyawan Putra",
+    "kos_details": "Tidak ada ulasan · Layanan Perujuk Teman Kos",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Tembalang Baru V No.82",
+    "nomor_hp": 0,
+    "id": 429
+  },
+  {
+    "Nama_kost": "Kost Arjuna Lanang (Kost Putra)",
+    "kos_details": "Tidak ada ulasan · Hotel jangka panjang",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Gg. Jeruk No.9 ·",
+    "nomor_hp": "0822-2562-1002",
+    "id": 431
+  },
+  {
+    "Nama_kost": "KOST BU YOULIE",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCJC+2H9, Jl. Jati Raya ·",
+    "nomor_hp": "0856-4122-9098",
+    "id": 432
+  },
+  {
+    "Nama_kost": "Kost Putra Kana",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(14)",
+    "Alamat": "W9VV+RFX ·",
+    "nomor_hp": "0895-3322-66231",
+    "id": 433
+  },
+  {
+    "Nama_kost": "Kos Putra Mulawarman",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(6)",
+    "Alamat": "WCJQ+3JR",
+    "nomor_hp": 0,
+    "id": 434
+  },
+  {
+    "Nama_kost": "Kost Putra Ananta",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(45)",
+    "Alamat": "Jl. Cemp. Sari Tim. No.24 ·",
+    "nomor_hp": "0823-2346-7389",
+    "id": 436
+  },
+  {
+    "Nama_kost": "Wisma Putra Anugrah",
+    "kos_details": "· Pondok",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(47)",
+    "Alamat": "Jl. Gondang Raya 10 ·",
+    "nomor_hp": "0897-0461-311",
+    "id": 437
+  },
+  {
+    "Nama_kost": "Kost Putra Ganesha Shelter",
+    "kos_details": "· Penginapan",
+    "avg_rating": "3,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "Jl. Gerungsari No.49 ·",
+    "nomor_hp": "0821-3779-1953",
+    "id": 438
+  },
+  {
+    "Nama_kost": "Amir Putra",
+    "kos_details": "Tidak ada ulasan · Hotel jangka panjang",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Banjarsari Selatan No.55 ·",
+    "nomor_hp": "0812-8200-6532",
+    "id": 439
+  },
+  {
+    "Nama_kost": "Kos",
+    "kos_details": "Tidak ada ulasan · Rumah wisata",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCH6+6R4",
+    "nomor_hp": 0,
+    "id": 441
+  },
+  {
+    "Nama_kost": "RIFKEY KOST PUTRA",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Gg. Pisang Raya No.2",
+    "nomor_hp": 0,
+    "id": 442
+  },
+  {
+    "Nama_kost": "Kos\"an putra",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Baskoro Raya No.2 ·",
+    "nomor_hp": "0857-4719-1596",
+    "id": 444
+  },
+  {
+    "Nama_kost": "Kos",
+    "kos_details": "Tidak ada ulasan · Rumah Pondokan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Ngesrep Timur V Dalam I No.31",
+    "nomor_hp": 0,
+    "id": 446
+  },
+  {
+    "Nama_kost": "Kos Putra Millenium (Harian-Bulanan)",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(35)",
+    "Alamat": "",
+    "nomor_hp": "0812-2575-049",
+    "id": 449
+  },
+  {
+    "Nama_kost": "Kos Putra Oren",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Tlogosari No.11",
+    "nomor_hp": 0,
+    "id": 452
+  },
+  {
+    "Nama_kost": "Kost Griya Parkit",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "4,1",
+    "jumlah_reviewer": "(15)",
+    "Alamat": "Mulawarman Selatan I RT 2/1 Kramas Tembalang",
+    "nomor_hp": "081285753225",
+    "id": 453
+  },
+  {
+    "Nama_kost": "Kost-kost an",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "WCG8+3JQ",
+    "nomor_hp": 0,
+    "id": 454
+  },
+  {
+    "Nama_kost": "Kost Arjuna",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(13)",
+    "Alamat": "WCXW+V24",
+    "nomor_hp": 0,
+    "id": 456
+  },
+  {
+    "Nama_kost": "Kos putra 43c",
+    "kos_details": "Tidak ada ulasan · Layanan Perujuk Teman Kos",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCWP+9FH ·",
+    "nomor_hp": "0858-2939-0122",
+    "id": 459
+  },
+  {
+    "Nama_kost": "Kos mandiri putra",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "WCPP+RRW ·",
+    "nomor_hp": "0857-6208-4752",
+    "id": 460
+  },
+  {
+    "Nama_kost": "Kos Pria Ibu Kaswati",
+    "kos_details": "· Hostel",
+    "avg_rating": "4,6",
+    "jumlah_reviewer": "(10)",
+    "Alamat": "WCQP+QGP ·",
+    "nomor_hp": "0856-4744-5894",
+    "id": 465
+  },
+  {
+    "Nama_kost": "Nerissha Residence",
+    "kos_details": "· Hotel",
+    "avg_rating": "4,5",
+    "jumlah_reviewer": "(139)",
+    "Alamat": "Jl. Mulawarman II No.26C ·",
+    "nomor_hp": "0857-4340-7948",
+    "id": 466
+  },
+  {
+    "Nama_kost": "Kos Wisma Hasan",
+    "kos_details": "· Penginapan",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(7)",
+    "Alamat": "Jl. Tj. Sari VI No.29 ·",
+    "nomor_hp": "0857-1286-1795",
+    "id": 467
+  },
+  {
+    "Nama_kost": "Kost PMB",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "3,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Gg. Nirwana Sari II No.13",
+    "nomor_hp": 0,
+    "id": 468
+  },
+  {
+    "Nama_kost": "Kost putra & Toko Sembako Bu Wati( iza) Patemon",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,7",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Jl. Patemon No.88 ·",
+    "nomor_hp": "0856-4040-5912",
+    "id": 474
+  },
+  {
+    "Nama_kost": "Kost Pusposari",
+    "kos_details": "· Agen Properti Komersial",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(3)",
+    "Alamat": "Ruko Pusposari Blok A No. 11, Jalan Tembalang Baru IV, RT.005 / RW.005, Tembalang ·",
+    "nomor_hp": "0897-5003-974",
+    "id": 479
+  },
+  {
+    "Nama_kost": "KOST SALMA UNDIP",
+    "kos_details": "Tidak ada ulasan · Pondok",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Gg bulusari 11 No.11c ·",
+    "nomor_hp": "0857-2734-2122",
+    "id": 480
+  },
+  {
+    "Nama_kost": "Haven Residence",
+    "kos_details": "· Rumah Pondokan",
+    "avg_rating": "4,4",
+    "jumlah_reviewer": "(127)",
+    "Alamat": "Jl. Jatimulyo No.10 ·",
+    "nomor_hp": "0877-0055-2008",
+    "id": 481
+  },
+  {
+    "Nama_kost": "Dian Kost",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,8",
+    "jumlah_reviewer": "(17)",
+    "Alamat": "Jl. Sumurboto II No.09 ·",
+    "nomor_hp": "081390638140",
+    "id": 482
+  },
+  {
+    "Nama_kost": "Kost Melona (Kost Putra)",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Jl. Taman Siswa No.24 ·",
+    "nomor_hp": "0815-4241-1203",
+    "id": 483
+  },
+  {
+    "Nama_kost": "Kost Baskoro 90",
+    "kos_details": "Tidak ada ulasan · Motel",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Baskoro Raya No.90",
+    "nomor_hp": 0,
+    "id": 485
+  },
+  {
+    "Nama_kost": "Kost Bu Prihati",
+    "kos_details": "Tidak ada ulasan · Guest house",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Timoho Timur 2 No.23",
+    "nomor_hp": 0,
+    "id": 487
+  },
+  {
+    "Nama_kost": "Kos sandra",
+    "kos_details": "· Penginapan",
+    "avg_rating": "4,0",
+    "jumlah_reviewer": "(2)",
+    "Alamat": "WCRP+WRV, Gg. Bharata ·",
+    "nomor_hp": "0821-3450-0946",
+    "id": 488
+  },
+  {
+    "Nama_kost": "KOS BU KHOIROH",
+    "kos_details": "Tidak ada ulasan · Penginapan",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "WCWP+QR7, Jl. Gg. 2 ·",
+    "nomor_hp": "081325796899",
+    "id": 489
+  },
+  {
+    "Nama_kost": "Alita Kost Putra Exclusive",
+    "kos_details": "Tidak ada ulasan · Asrama Pelajar",
+    "avg_rating": "",
+    "jumlah_reviewer": "",
+    "Alamat": "Jl. Gondang Raya No.62 A ·",
+    "nomor_hp": "085724675167",
+    "id": 491
+  },
+  {
+    "Nama_kost": "Kost Putra Qory",
+    "kos_details": "· Hotel jangka panjang",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Griya Borobudur Mulawarman Cluster kamadhatu, Jl. Mulawarman Tim. No.Dalam ·",
+    "nomor_hp": "0856-0154-7879",
+    "id": 492
+  },
+  {
+    "Nama_kost": "Kost Cucun Putra",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277",
+    "nomor_hp": "0085606918168/ 081225788168",
+    "id": 493
+  },
+  {
+    "Nama_kost": "Kost tambahab",
+    "kos_details": "· Rumah wisata",
+    "avg_rating": "5,0",
+    "jumlah_reviewer": "(1)",
+    "Alamat": "Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277",
+    "nomor_hp": "0085606918168/ 081225788168",
+    "id": 494
+  }
+]

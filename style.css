@@ -1,0 +1,169 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+.parent {
+  padding: 20px 250px;
+}
+
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family:'Poppins', sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+header {
+  background-color: #0a2540;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  color: #fff;
+}
+
+body{
+  background-color: #fff;
+  color: #3a3a3a;
+}
+
+button{
+  height: 44px;
+  font-size: 16px;
+  text-align: center;
+  line-height: 8px
+}
+
+
+.hero{
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero__text button, .search__filters{
+  padding: 15px;
+  font:16;
+}
+
+.hero__text h1 {
+  margin-bottom: 30px;
+  font: 38px;
+  color: #0a2540;
+}
+
+.hero__text h2 {
+  margin-bottom: 30px;
+  color: #0a2540;
+}
+
+.hero__text p {
+  margin-bottom: 30px;
+  color: #425466;
+}
+
+.hero__image img{
+  height: 300px;
+  width: 300px;
+
+}
+
+.search{
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search__input {
+  padding: 15px;
+
+}
+
+.filter__kos{
+display: flex;
+justify-content:flex-end;
+margin-top: 10px;
+gap: 20px;
+
+}
+
+.filter__kos button {
+  background-color: #EEC52A;
+  
+  padding: 0 20px;
+
+}
+
+
+.kost-totals {
+  padding: 20px;
+}
+
+.kost-list{
+  padding: 20px 250px;
+  background-color: #f6f9fc;
+  
+}
+
+.kost-list__card__title {
+  display: flex;
+  align-items: center;
+}
+
+.kost-list__card__title img {
+  margin-right: 20px;
+}
+
+.kost-list__card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.button-page {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  
+  ;
+}
+
+.button-page button{
+  width: 40px;
+  height: 48px;
+  background: #EEC52A;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+}
+
+.active {
+  background-color: blue !important;
+  color: white !important;
+}
+
+/* Style */
+.btn-blue--outline{ 
+  padding: 8px 15px;
+  outline: non;
+  border: 1px solid teal;
+  color: teal;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+  header, .hero, .search, .kost-list {
+    padding: 20px;
+  }
+}
+
