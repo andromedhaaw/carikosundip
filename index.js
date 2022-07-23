@@ -11,9 +11,16 @@ const load = async (source) => {
 
 const main = async () => {
   try {
-    const data = await load('data_kost.json');
-    localStorage.setItem("data", JSON.stringify(data))
-    mappingData(data)
+    const loadKostPutra = await load('data_kost.json');
+    const loadKostPutri = await load('data_kost_putri.json');
+
+    const unionPutraPutri = [
+      ...loadKostPutra,
+      ...loadKostPutri
+    ]
+    localStorage.setItem("data", JSON.stringify(loadKostPutra))
+    localStorage.setItem("union-data", JSON.stringify(unionPutraPutri))
+    mappingData(loadKostPutra)
   } catch (error) {
     console.log(error);
   }
@@ -83,6 +90,30 @@ const printData = (data) => {
       `
   })
   kostList.innerHTML = kostListCard
+}
+
+//search
+
+
+const dataKost = localStorage.getItem("union-data")
+let parsedDataKost = JSON.parse(dataKost)
+
+function search_kos() {
+  let input = document.getElementById('searchbar').value
+  input = input.toLowerCase();
+
+  const results = []
+  for (i = 0; i < parsedDataKost.length; i++) {
+    const obj = parsedDataKost[i];
+    if (obj.Nama_kost.toLowerCase().includes(input)) {
+      results.push(obj)
+      // console.error(obj)
+      // const elem = document.createElement("li")
+      // elem.innerHTML = `${obj.Name} - ${obj.Color}`
+      // x.appendChild(elem)
+    }
+  }
+  mappingData(results)
 }
 
 

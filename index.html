@@ -47,7 +47,10 @@
         </div>
 
         <div class="search parent">
-            <input type="text" placeholder="Search by location .." class="search__input">
+            
+            <input id="searchbar" onkeyup="search_kos()" type="text" name="search">
+            <ul id="list-holder">
+            </ul>
             <button class="search__filters">
                 Show Filters
             </button>
